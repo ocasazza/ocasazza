@@ -1,6 +1,5 @@
-[![SDGR](./img/sdgr.png)]
+![SDGR](./img/sdgr.png)
 
-- 🔭 I’m currently working on ...
 
 <!--
 **ocasazza/ocasazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
