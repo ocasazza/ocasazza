@@ -1,4 +1,4 @@
-![Reaper](./img/sdgr.png)
+![Reaper](https://raw.githubusercontent.com/ocasazza/ocasazza/c331b58/img/sdgr.png)
 
 
 <!--
