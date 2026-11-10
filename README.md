@@ -1,4 +1,4 @@
-![SDGR](./img/sdgr.png)
+![Molecular structure](./img/sdgr.png)
 
 
 <!--
