@@ -1,4 +1,4 @@
-![Molecular structure](./img/sdgr.png)
+![Reaper](./img/sdgr.png)
 
 
 <!--
